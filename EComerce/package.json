@@ -1,0 +1,8 @@
+{
+    "name": "EComerce",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "caique",
+    "contributors": [],
+    "dependencies": {}
+}
